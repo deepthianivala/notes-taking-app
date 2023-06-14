@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+    color: #000000;
+}

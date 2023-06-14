@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700;900&display=swap');
+.btnReal{
+    width: 100%;
+    height: 100%;
+    border-radius:23px;
+    background: none;
+    color: white;
+}
+
+.btnContainer{
+    display: flex;
+    width: 65%;
+    height: 6% ;
+    border-radius: 23px;
+    outline: 0;
+    background-color: black;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+}
+/* #btnContainer_id{
+    left: 8%;
+    top: 13%;
+} */

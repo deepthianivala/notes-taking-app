@@ -1,0 +1,19 @@
+.noteContainer{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid brown;
+    margin-top: 3%;
+    height: 8%;
+    align-items: center;
+}
+.iconContainer{
+    display: flex;
+    border: 2px solid darkorchid;
+    margin-left: 4%;
+    margin-right: 3%;
+
+}
+.noteNameContainer{
+    display: flex;
+
+}

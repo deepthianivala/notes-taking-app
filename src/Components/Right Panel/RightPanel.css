@@ -1,0 +1,51 @@
+.rightSplit{
+    display: flex;
+    width: 75%;
+    height: 100%;
+    background: #F7ECDC;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.pocket_img_Container{
+    /* border: 2px solid blueviolet; */
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 70%;
+    top: 15%;
+    position: relative;
+    align-items: center;
+}
+.pocket_img{
+    display: flex;
+    width: 50%;
+    height: 60%;
+    /* border: 2px solid green;  */
+}
+
+
+.LockImageContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.tagline-3{
+width: 40%;
+height: 100%;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+letter-spacing: 0.02em;
+color: #292929;
+}
+.encrypt_img{
+    display: flex;
+    height: 80%;
+    width: 3%;
+    margin-right: 2%;
+}
